@@ -34,8 +34,6 @@ A unique integration of mathematical computation and Christian spirituality, fea
     - Apache 2.4+ | PHP 7.4+ | MySQL 5.6+
     - RESTful API endpoints
 
-## Technical Specifications
-
 ## API Documentation
 
 ### Endpoint: `/api/get-candles.php`
