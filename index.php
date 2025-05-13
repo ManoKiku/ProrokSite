@@ -148,7 +148,7 @@
     <footer>
         <p>Copyright © 2025 Калькулятор Пророка</p>
         <div class="social-links">
-            <a href="https://github.com/ManoKiku">GitHub</a>
+            <a href="https://github.com/ManoKiku/ProrokSite">GitHub</a>
             <a href="https://t.me/ManoKiku">Telegram</a>
         </div>
     </footer>
